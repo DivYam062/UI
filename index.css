@@ -585,6 +585,7 @@
     .right-nav{
         gap: 20px;
         width: 30%;
+        padding: 0;
     }
 
     .top{
@@ -662,17 +663,24 @@
 }
 
 @media only screen and (max-width:700px) {
-    .left-nav{
-        width: 40%;
+    .navbar{
+        gap: 20px;
     }
-    
+    .left-nav{
+        margin: 0;
+        padding: 0;
+    }
+
     .center-nav{
         display: none;
     }
 
     .right-nav{
-        gap: 20px;
-        width: 30%;
+        padding: 0;
+    }
+
+    .right-nav button{
+        width: 90%;
     }
 
     .right-nav i{
@@ -684,12 +692,21 @@
         padding: 0;
     }
 
+    .second{
+        width: 70%;
+    }
+
+    .third{
+        width: 100%;
+        padding: 0;
+    }
+
     .left-top p{
-        width: 30%;
+        width: 95%;
     }
 
     .right-top{
-        padding: 30px 90px;
+        padding: 30px 20%;
         width: 50%;
     }
 
@@ -725,8 +742,12 @@
         width: 100%;
     }
 
+    .card-1 i{
+        margin-top: 5px;
+    }
+
     .card-1 button{
-        width: 99%;
+        width: 80%;
     }
 
     .middle-down{
