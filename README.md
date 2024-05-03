@@ -1,10 +1,10 @@
 # EDURA
 Edura is a online learning website you can access free and paid courses.
 
-#FEATURES:
-1- Good UI Representation
-2- Hover Properties 
-3- Responsive UI
+#FEATURES: </br>
+1- Good UI Representation </br>
+2- Hover Properties </br>
+3- Responsive UI </br>
 
 # SNAPSHOT:
 
